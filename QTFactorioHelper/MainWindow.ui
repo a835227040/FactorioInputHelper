@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindowClass</class>
+ <widget class="QMainWindow" name="MainWindowClass">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>800</width>
+    <height>27</height>
+   </rect>
+  </property>
+  <property name="font">
+   <font>
+    <family>Microsoft YaHei UI</family>
+   </font>
+  </property>
+  <property name="acceptDrops">
+   <bool>false</bool>
+  </property>
+  <property name="windowTitle">
+   <string>FactorioInputHelper Ver 1.0.1 by leopard</string>
+  </property>
+  <property name="windowIcon">
+   <iconset theme=":/MainWindow/D:/steam/steamapps/common/Factorio/data/base/graphics/icons/transport-belt.png"/>
+  </property>
+  <property name="autoFillBackground">
+   <bool>false</bool>
+  </property>
+  <widget class="QWidget" name="centralWidget">
+   <property name="palette">
+    <palette>
+     <active/>
+     <inactive/>
+     <disabled/>
+    </palette>
+   </property>
+   <widget class="QLineEdit" name="textEdit">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>0</y>
+      <width>800</width>
+      <height>27</height>
+     </rect>
+    </property>
+    <property name="placeholderText">
+     <string>直接输入中文并按下回车，即可发送。</string>
+    </property>
+   </widget>
+  </widget>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <resources>
+  <include location="MainWindow.qrc"/>
+ </resources>
+ <connections/>
+</ui>
