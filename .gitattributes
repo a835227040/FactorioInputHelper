@@ -61,3 +61,9 @@
 #*.PDF   diff=astextplain
 #*.rtf   diff=astextplain
 #*.RTF   diff=astextplain
+
+*.cpp linguist-language=Qt
+*.h linguist-language=Qt
+*.qrc linguist-language=Qt
+*.ui linguist-language=Qt
+*.pro linguist-language=Qt

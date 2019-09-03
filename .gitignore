@@ -338,3 +338,7 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+
+build-QTFactorioHelper-Desktop_Qt_5_13_0_MinGW_32_bit-Debug
+build-QTFactorioHelper-Desktop_Qt_5_13_0_MinGW_32_bit-Release
+Win32
