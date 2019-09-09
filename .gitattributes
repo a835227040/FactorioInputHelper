@@ -62,8 +62,8 @@
 #*.rtf   diff=astextplain
 #*.RTF   diff=astextplain
 
-*.cpp linguist-language=Qt
-*.h linguist-language=Qt
-*.qrc linguist-language=Qt
-*.ui linguist-language=Qt
-*.pro linguist-language=Qt
+*.cpp linguist-language=C++
+*.h linguist-language=C++
+*.qrc linguist-language=C++
+*.ui linguist-language=C++
+*.pro linguist-language=C++
